@@ -66,7 +66,7 @@ Atlast you will have to push it with command
 
 ## Submission Guide
 
-Submit This link to your [PR Here](bonus.devdays.xyz)
+Submit This link to your [PR Here](http://bonus.devdays.xyz)
 
 
 
